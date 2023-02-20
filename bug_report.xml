@@ -1,0 +1,8 @@
+  "#": 1,
+  "Severity": "Blocker",
+  "Title": "The Burger menu doesn't open in the 'Games' screen after tapping to the [Start] button on the 'Shall we practice?' screen",
+  "Steps": "1. Complete all Tests successfully; 2. Tap the [Go to Achievements] Button; 3. Swipe to the 'Shall we practice?' screen; 4. Tap the [Start] Button; 5. Tap the Burger menu",
+  "Actual result": "The Burger menu doesn't open on the 'Games' screen",
+  "Expected Result": "Burger menu opens and СontentBlock is displaced to the right of the screen",
+  "Link": "",
+  "Environment": "iPhone XR iOS 16.1.2"
